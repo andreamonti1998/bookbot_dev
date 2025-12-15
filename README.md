@@ -1,3 +1,4 @@
 # bookbot_dev
-Git for boot.dev studies
-I must write something i guess...
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
+
+
