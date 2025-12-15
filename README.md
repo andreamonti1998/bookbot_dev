@@ -1,2 +1,3 @@
 # bookbot_dev
 Git for boot.dev studies
+I must write something i guess...
